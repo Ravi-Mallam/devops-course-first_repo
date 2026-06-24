@@ -1,0 +1,13 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 74DC-AC4E
+
+ Directory of C:\Users\RAVI MALLAM\Documents\GIT_EXamples\devops-course-first_repo
+
+25-06-2026  13:26    <DIR>          .
+24-06-2026  20:33    <DIR>          ..
+24-06-2026  23:45               228 .project
+25-06-2026  10:44               433 f1.txt
+25-06-2026  13:26                 0 f2.txt
+24-06-2026  20:35               389 localfile.txt
+               4 File(s)          1,050 bytes
+               2 Dir(s)  334,268,870,656 bytes free
