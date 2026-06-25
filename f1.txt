@@ -9,3 +9,4 @@
 24-06-2026  20:35               389 localfile.txt
                2 File(s)            389 bytes
                2 Dir(s)  333,537,652,736 bytes free
+"this is f1 file" 
